@@ -12,7 +12,7 @@ to see which demos you can run. You'll find examples for [Chat](https://www.twil
 
 Let's get started!
 
-## Configure the sample application
+## Configure the sample application.
 
 To run the application, you'll need to gather your Twilio account credentials and configure them
 in a file named `.env`. To create this file from an example template, do the following in your
