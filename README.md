@@ -24,7 +24,7 @@ cp .env.example .env
 
 Open `.env` in your favorite text editor and configure the following values.
 
-### Configure account information
+### Configure account information.
 
 Every sample in the demo requires some basic credentials from your Twilio account. Configure these first.
 
